@@ -9,25 +9,13 @@
 
 ### 🚀 Skills & Tools
 
-🔧 Web Development:
-HTML5, CSS3
-JavaScript (ES6+), React.js
-Node.js, Express.js
-MongoDB, MySQL
+🔧 Web Development: HTML5, CSS3, JavaScript (ES6+), React.js, Node.js, Express.js, MongoDB, MySQL
 
-💻 Programming & Tools:
-Python
-Git & GitHub
-VS Code
+💻 Programming & Tools: Python, Git & GitHub, VS Code
 
-🧠 AI & Data:
-Machine Learning 
-Natural Language Processing (NLP)
-Basics of AI
+🧠 AI & Data: Machine Learning, Natural Language Processing (NLP), Basics of AI
 
-🎨 Design & UX:
-UI/UX Design Principles
-Canva (Creative Visuals & Assets)
+🎨 Design & UX: UI/UX Design Principles, Canva (Creative Visuals & Assets)
 
 ---
 
