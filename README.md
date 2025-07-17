@@ -26,13 +26,45 @@
 
 ---
 
+## ✍️ Content Writing Portfolio
+
+I believe content is as powerful as code. From blogs to product descriptions, I’ve been exploring writing as a creative tool to explain and connect.
+
+🔗 [View Full Content Writing Portfolio](https://github.com/SanthiyaBaskar/content-writing-portfolio)
+
+Includes:
+- 📘 Blog Articles
+- 🛍️ Product Descriptions
+- 📩 Formal & Creative Emails
+- 📣 Social Media Posts
+- 💻 Technical Content (Explained Simply)
+- 🧠 Strategy Docs for Projects
+
+---
+
+## 💻 50+ Projects Completed
+
+Built over 50 real-time mini and major projects as part of my learning in:
+- Frontend Development
+- Python & Logic Building
+- AI & ML (Mini models, prediction apps)
+- Web APIs, User Interfaces, Utilities
+- Games, Trackers, Calculators & More
+
+---
+
+Explore project repos in my GitHub, each with:
+- 🧾 README
+- 💻 Live Preview 
+- 🛠️ Tech Stack
+
+> “Code what you think. Write what you feel. Learn every day.”
+
+---
+
 ### 📫 Let's Connect
 
 🔗 [LinkedIn](www.linkedin.com/in/santhiya-baskar-675a85258)  
 📬 Email: ssandhiya252@gmail.com
 
 ---
- 
-*“Code. Learn. Repeat.” 💡*
-
-
