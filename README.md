@@ -10,7 +10,7 @@
 ## 🌟 About Me
 
 - 🎓 B.Tech in **Electronics and Communication Engineering** (Class of 2025)  
-- 📍 From Tamil Nadu, India 🇮🇳  
+- 📍 From Puducherry, India 🇮🇳  
 - 💻 I turn *ideas* into interactive web apps  
 - 🧠 Exploring the magical world of **AI + JavaScript**  
 - ✍️ I also write content that feels ✨
