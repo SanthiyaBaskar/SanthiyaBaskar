@@ -1,70 +1,76 @@
-# 👋 Hi there, I'm Santhiya Baskar!
+<h1 align="center">✨ Hey there, I'm Santhiya Baskar! ✨</h1>
 
-🎓 B.Tech in Electronics & Communication Engineering (2025)  
-📚 Currently learning AI & Machine Learning @ GUVI  
-💻 MERN Stack Developer | Exploring AI + Web Projects  
-✨ Passionate about coding, learning, and building real-world projects
-
----
-
-### 🚀 Skills & Tools
-
-🔧 Web Development: HTML5, CSS3, JavaScript (ES6+), React.js, Node.js, Express.js, MongoDB, MySQL
-
-💻 Programming & Tools: Python, Git & GitHub, VS Code
-
-🧠 AI & Data: Machine Learning, Natural Language Processing (NLP), Basics of AI
-
-🎨 Design & UX: UI/UX Design Principles, Canva (Creative Visuals & Assets)
+<p align="center">
+  🌸 Passionate Developer • Creative Coder • AI Explorer 💻<br>
+  🎓 ECE Grad'25 • GUVI AI Learner • 50+ Projects Built 🚀
+</p>
 
 ---
 
-### 📈 GitHub Stats
+## 🌟 About Me
 
-![Santhiya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SanthiyaBaskar&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SanthiyaBaskar&layout=compact&theme=radical)
-
----
-
-## ✍️ Content Writing Portfolio
-
-I believe content is as powerful as code. From blogs to product descriptions, I’ve been exploring writing as a creative tool to explain and connect.
-
-🔗 [View Full Content Writing Portfolio](https://github.com/SanthiyaBaskar/content-writing-portfolio)
-
-Includes:
-- 📘 Blog Articles
-- 🛍️ Product Descriptions
-- 📩 Formal & Creative Emails
-- 📣 Social Media Posts
-- 💻 Technical Content (Explained Simply)
-- 🧠 Strategy Docs for Projects
+- 🎓 B.Tech in **Electronics and Communication Engineering** (Class of 2025)  
+- 📍 From Tamil Nadu, India 🇮🇳  
+- 💻 I turn *ideas* into interactive web apps  
+- 🧠 Exploring the magical world of **AI + JavaScript**  
+- ✍️ I also write content that feels ✨
 
 ---
 
-## 💻 50+ Projects Completed
+## 🌈 Tech Toolbox
 
-Built over 50 real-time mini and major projects as part of my learning in:
-- Frontend Development
-- Python & Logic Building
-- AI & ML (Mini models, prediction apps)
-- Web APIs, User Interfaces, Utilities
-- Games, Trackers, Calculators & More
-
----
-
-Explore project repos in my GitHub, each with:
-- 🧾 README
-- 💻 Live Preview 
-- 🛠️ Tech Stack
-
-> “Code what you think. Write what you feel. Learn every day.”
+| 💻 Frontend | ⚙️ Backend | 🧠 AI & Tools | 🎨 Design |
+|------------|------------|---------------|-----------|
+| HTML5, CSS3, JS | Node.js, Express | Python, NLP Basics | Canva |
+| React.js | MongoDB, MySQL | Machine Learning (Basics) | UI/UX Ideas |
+| Git & GitHub | REST APIs | ChatGPT Integration | |
 
 ---
 
-### 📫 Let's Connect
+## 🎮 Pinned Projects You Should Check Out!
 
-🔗 [LinkedIn](www.linkedin.com/in/santhiya-baskar-675a85258)  
-📬 Email: ssandhiya252@gmail.com
+| 🔗 Project Name | 🌟 What It Does |
+|----------------|-----------------|
+| [🧠 AI Image Generator](https://github.com/SanthiyaBaskar/ai-image-generator) | Generate images using AI prompts! |
+| [🃏 Memory Match Game](https://github.com/SanthiyaBaskar/memory-match-game) | A fun brain-boosting card flip game |
+| [👊 Whack-a-Mole](https://github.com/SanthiyaBaskar/whack-a-mole) | Test your reflexes in this cute game |
+| [🔎 Wikipedia Search App](https://github.com/SanthiyaBaskar/wikipedia-search-app) | Search anything instantly using Wiki API |
+| [🔖 Bookmark Manager](https://github.com/SanthiyaBaskar/A-stylish-and-responsive-web-app-to-save-and-manage-website-bookmarks) | Save + manage your favorite websites |
+| [📄 Santhiya Resume](https://github.com/SanthiyaBaskar/SanthiyaResume) | My interactive portfolio + resume repo |
 
 ---
+
+## 🌸 Fun Fact
+
+> I believe coding should feel like **creating art** — expressive, meaningful, and filled with personality 🎨✨
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SanthiyaBaskar&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanthiyaBaskar&layout=compact&theme=tokyonight" alt="Top Languages" width="49%"/>
+</p>
+
+---
+
+## ✍️ Writing Corner
+
+📝 I’ve also written **blogs, social media content, microcopy, and product descriptions.**  
+Check out my portfolio here:  
+➡️ [Content Writing Portfolio](https://github.com/SanthiyaBaskar/content-writing-portfolio)
+
+---
+
+## 🌐 Let’s Connect!
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/santhiya-baskar-675a85258)  
+- 📧 Email: ssandhiya252@gmail.com  
+- 🧠 Projects: [@SanthiyaBaskar](https://github.com/SanthiyaBaskar)
+
+---
+
+<p align="center">
+  🌟 “Build with love. Code with purpose. Dream without limits.” 🌟
+</p>
