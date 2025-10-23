@@ -1,63 +1,112 @@
-<h1 align="center">✨ Hey there, I'm Santhiya Baskar! ✨</h1>
+<!-- Animated Header -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=✨+Hey+there!+I'm+Santhiya+Baskar+✨;Frontend+Developer+|+AI+Explorer+|+Creative+Coder;Turning+Ideas+into+Interactive+Experiences!&center=true&size=25&color=FADADD">
+</h1>
 
 <p align="center">
-  🌸 Passionate Developer • Creative Coder • AI Explorer 💻<br>
-  🎓 ECE Grad'25 • GUVI AI Learner • 50+ Projects Built 🚀
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="90px">
 </p>
 
 ---
 
-## 🌟 About Me
+## 🌸 About Me  
 
-- 🎓 B.Tech in **Electronics and Communication Engineering** (Class of 2025)  
-- 📍 From Puducherry, India 🇮🇳  
-- 💻 I turn *ideas* into interactive web apps  
-- 🧠 Exploring the magical world of **AI + Python**  
-- ✍️ I also write content that feels ✨
+💻 A passionate developer who turns ideas into **beautiful, interactive web experiences**  
+🧠 Currently exploring the world of **AI, Python, and Data Visualization**  
+🎨 I blend **creativity and logic** to craft digital experiences that feel like art  
+🚀 Always learning, always building, always dreaming bigger  
 
 ---
 
-## 🌈 Tech Toolbox
+## 🛠️ My Tech Stack  
+
+<div align="center">
 
 | 💻 Frontend | ⚙️ Backend | 🧠 AI & Tools | 🎨 Design |
-|------------|------------|---------------|-----------|
-| HTML5, CSS3, JS | Node.js, Express | Python, NLP | Canva |
-| React.js | MongoDB, MySQL | Machine Learning | UI/UX Ideas |
-| Git & GitHub | REST APIs | ChatGPT Integration | PowerBI |
+|-------------|------------|---------------|------------|
+| HTML, CSS, JS, React | Node.js, Express | Python, ML, NLP | Canva, Power BI |
+| REST APIs | MongoDB, MySQL | ChatGPT API | UI/UX Concepts |
+
+</div>
 
 ---
 
-## 🌸 Fun Fact
+## 🚀 Featured Project Collections  
 
-> I believe coding should feel like **creating art** — expressive, meaningful, and filled with personality 🎨✨
+✨ Each repository reflects my growth, creativity, and hands-on learning across multiple domains.  
+
+| 🔗 Repository | 🌟 Description |
+|---------------|----------------|
+| [**GUVI Projects**](https://github.com/SanthiyaBaskar/guvi-projects) | Python + Streamlit projects developed as part of GUVI’s AI course |
+| [**Python Coding**](https://github.com/SanthiyaBaskar/python-coding) | CodeKata solutions and Python logic-building challenges |
+| [**Power BI Projects**](https://github.com/SanthiyaBaskar/powerbi-projects) | Business analytics dashboards with advanced data visualization |
+| [**Web Development Projects**](https://github.com/SanthiyaBaskar/web-development-projects) | Internship web apps showcasing modern front-end and API integration |
+| [**College Projects**](https://github.com/SanthiyaBaskar/college-projects) | My ECE academic mini and major projects built on innovation and design |
+| [**AI Projects**](https://github.com/SanthiyaBaskar/ai-projects) | Mini AI web apps that combine API magic and machine learning concepts |
+| [**HTML Projects**](https://github.com/SanthiyaBaskar/html-projects) | Beginner-friendly web apps showcasing front-end logic and layout |
+| [**JavaScript Projects**](https://github.com/SanthiyaBaskar/javascript-projects) | Interactive browser apps built with vanilla JS and creativity |
+| [**CSS Projects**](https://github.com/SanthiyaBaskar/css-projects) | Modern UI components and effects designed using CSS animations |
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SanthiyaBaskar&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanthiyaBaskar&layout=compact&theme=tokyonight" alt="Top Languages" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SanthiyaBaskar&show_icons=true&theme=tokyonight&hide_border=true" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SanthiyaBaskar&theme=tokyonight&hide_border=true" width="48%">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SanthiyaBaskar&theme=tokyo-night&hide_border=true" width="90%">
 </p>
 
 ---
 
-## ✍️ Writing Corner
+## 💫 Skill Highlights  
 
-📝 I’ve also written **blogs, social media content, microcopy, and product descriptions.**  
-Check out my portfolio here:  
-➡️ [Content Writing Portfolio](https://github.com/SanthiyaBaskar/content-writing-portfolio)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,mongodb,mysql,git,github,ai,powerbi,vscode&theme=light" />
+</p>
 
 ---
 
-## 🌐 Let’s Connect!
+## ✍️ Beyond Code  
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/santhiya-baskar-675a85258)  
-- 📧 Email: ssandhiya252@gmail.com  
-- 🧠 Projects: [@SanthiyaBaskar](https://github.com/SanthiyaBaskar)
+🌸 Writing creative content, technical blogs, and microcopy  
+🎯 Exploring AI tools that boost productivity and creativity  
+🎨 Designing elegant front-end interfaces with emotion & flow  
+💡 Sharing my learnings through simple, visual storytelling  
+
+> “I don’t just code for output — I code for expression.” 💫  
+
+---
+
+## 🌐 Connect With Me  
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/santhiya-baskar-675a85258"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:ssandhiya252@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://github.com/SanthiyaBaskar"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+</p>
+
+---
+
+## 🪄 Fun Touch  
+
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=tokyonight" alt="Random Dev Joke" width="80%">
+</p>
+
+---
+
+## 🌟 Quote I Live By  
+
+<p align="center">
+  <b>“Build with love. Code with purpose. Dream without limits.” 💫</b>
+</p>
 
 ---
 
 <p align="center">
-  🌟 “Build with love. Code with purpose. Dream without limits.” 🌟
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&section=footer&text=✨Thanks+for+visiting!✨&fontSize=25&fontColor=fff" />
 </p>
