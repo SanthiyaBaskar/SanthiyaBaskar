@@ -21,9 +21,9 @@
 
 | 💻 Frontend | ⚙️ Backend | 🧠 AI & Tools | 🎨 Design |
 |------------|------------|---------------|-----------|
-| HTML5, CSS3, JS | Node.js, Express | Python, NLP Basics | Canva |
+| HTML5, CSS3, JS | Node.js, Express | Python, NLP | Canva |
 | React.js | MongoDB, MySQL | Machine Learning | UI/UX Ideas |
-| Git & GitHub | REST APIs | ChatGPT Integration | |
+| Git & GitHub | REST APIs | ChatGPT Integration | PowerBI |
 
 ---
 
