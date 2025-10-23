@@ -12,7 +12,7 @@
 - 🎓 B.Tech in **Electronics and Communication Engineering** (Class of 2025)  
 - 📍 From Puducherry, India 🇮🇳  
 - 💻 I turn *ideas* into interactive web apps  
-- 🧠 Exploring the magical world of **AI + JavaScript**  
+- 🧠 Exploring the magical world of **AI + Python**  
 - ✍️ I also write content that feels ✨
 
 ---
@@ -22,21 +22,8 @@
 | 💻 Frontend | ⚙️ Backend | 🧠 AI & Tools | 🎨 Design |
 |------------|------------|---------------|-----------|
 | HTML5, CSS3, JS | Node.js, Express | Python, NLP Basics | Canva |
-| React.js | MongoDB, MySQL | Machine Learning (Basics) | UI/UX Ideas |
+| React.js | MongoDB, MySQL | Machine Learning | UI/UX Ideas |
 | Git & GitHub | REST APIs | ChatGPT Integration | |
-
----
-
-## 🎮 Pinned Projects You Should Check Out!
-
-| 🔗 Project Name | 🌟 What It Does |
-|----------------|-----------------|
-| [🧠 AI Image Generator](https://github.com/SanthiyaBaskar/ai-image-generator) | Generate images using AI prompts! |
-| [🃏 Memory Match Game](https://github.com/SanthiyaBaskar/memory-match-game) | A fun brain-boosting card flip game |
-| [👊 Whack-a-Mole](https://github.com/SanthiyaBaskar/whack-a-mole) | Test your reflexes in this cute game |
-| [🔎 Wikipedia Search App](https://github.com/SanthiyaBaskar/wikipedia-search-app) | Search anything instantly using Wiki API |
-| [🔖 Bookmark Manager](https://github.com/SanthiyaBaskar/A-stylish-and-responsive-web-app-to-save-and-manage-website-bookmarks) | Save + manage your favorite websites |
-| [📄 Santhiya Resume](https://github.com/SanthiyaBaskar/SanthiyaResume) | My interactive portfolio + resume repo |
 
 ---
 
