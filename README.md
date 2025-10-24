@@ -1,5 +1,7 @@
-<!-- 🌸 INTRO -->
-<h1 align="center">✨ Hey Everyone, Welcome! ✨</h1>
+<!-- 🌈 HEADER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF69B4,100:9370DB&height=160&section=header&text=✨%20Hey%20Everyone,%20Welcome!%20✨&fontSize=25&fontColor=ffffff&fontAlignY=35&animation=twinkling" />
+</p>
 
 <h3 align="center">I'm <b>Santhiya Baskar</b> 💖 | Frontend Developer & AI Explorer</h3>
 
