@@ -1,16 +1,16 @@
-<!-- 🌸 HEADER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF69B4,100:9370DB&height=220&section=header&text=Hey%20Everyone,%20Welcome!&fontSize=45&fontColor=ffffff&fontAlignY=35&desc=I'm%20Santhiya%20Baskar%20💖%20|%20Frontend%20Developer%20%26%20AI%20Explorer%20%7C%20Creative%20Coder&descAlignY=60&animation=twinkling" />
-</p>
+<!-- 🌸 INTRO -->
+<h1 align="center">✨ Hey Everyone, Welcome! ✨</h1>
+
+<h3 align="center">I'm <b>Santhiya Baskar</b> 💖 | Frontend Developer & AI Explorer</h3>
 
 ---
 
 <h2 align="center">💻 About Me</h2>
 
 <p align="center">
-I’m a <b>Frontend Developer</b> and <b>AI Explorer</b> who loves creating <b>clean, modern, and human-centered</b> digital experiences.<br>
-My work blends <b>design thinking and logical structure</b> to make ideas come alive.<br>
-Every project I build reflects clarity, curiosity, and creativity ✨
+I’m a <b>Frontend Developer</b> and <b>AI Explorer</b> who loves building <b>clean, modern, and meaningful</b> web experiences.<br>
+I focus on <b>clarity, usability, and creative logic</b> to turn ideas into reality.<br>
+Every project I build reflects curiosity, learning, and design-inspired thinking ✨
 </p>
 
 ---
@@ -29,21 +29,21 @@ Every project I build reflects clarity, curiosity, and creativity ✨
 <h2 align="center">🚀 Project Collections</h2>
 
 <p align="center">
-Explore my major repositories — each one represents a creative learning milestone 🌸
+Explore my key project repositories — every one tells a story of growth and creativity 🌸
 </p>
 
 <table align="center">
 <tr><th>Repository</th><th>Description</th></tr>
-<tr><td><a href="https://github.com/SanthiyaBaskar/guvi-projects">GUVI Projects</a></td><td>AI & Streamlit projects built during GUVI’s AI program</td></tr>
-<tr><td><a href="https://github.com/SanthiyaBaskar/python-coding">Python Coding</a></td><td>CodeKata logic challenges and Python problem-solving</td></tr>
-<tr><td><a href="https://github.com/SanthiyaBaskar/powerbi-projects">Power BI Projects</a></td><td>Interactive dashboards and analytics using Power BI</td></tr>
-<tr><td><a href="https://github.com/SanthiyaBaskar/web-development-projects">Web Development</a></td><td>Responsive websites and modern UI apps</td></tr>
-<tr><td><a href="https://github.com/SanthiyaBaskar/css-projects">CSS Projects</a></td><td>Beautiful animations and UI transitions built purely with CSS</td></tr>
+<tr><td><a href="https://github.com/SanthiyaBaskar/guvi-projects">GUVI Projects</a></td><td>AI & Streamlit projects built during GUVI’s AI course</td></tr>
+<tr><td><a href="https://github.com/SanthiyaBaskar/python-coding">Python Coding</a></td><td>CodeKata challenges and Python problem-solving</td></tr>
+<tr><td><a href="https://github.com/SanthiyaBaskar/powerbi-projects">Power BI Projects</a></td><td>Data dashboards and analytics built using Power BI</td></tr>
+<tr><td><a href="https://github.com/SanthiyaBaskar/web-development-projects">Web Development</a></td><td>Internship-level responsive web applications</td></tr>
+<tr><td><a href="https://github.com/SanthiyaBaskar/css-projects">CSS Projects</a></td><td>Creative UI effects and animation-based projects</td></tr>
 </table>
 
 ---
 
-<h2 align="center">📈 GitHub Insights</h2>
+<h2 align="center">📊 GitHub Insights</h2>
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=SanthiyaBaskar&show_icons=true&theme=rose_pine&hide_border=true" />
@@ -56,13 +56,13 @@ Explore my major repositories — each one represents a creative learning milest
 
 ---
 
-<h2 align="center">💡 My Philosophy</h2>
+<h2 align="center">🌸 My Philosophy</h2>
 
 <p align="center">
 <em>
-"Good code is invisible, but its impact is unforgettable."<br>
-I believe design and logic are two sides of the same creativity.<br>
-I build with clarity, code with emotion, and create with purpose. 🌸
+"Code should feel like art — expressive, clean, and full of intent."<br>
+I blend creativity and logic to build things that <b>work beautifully</b>.<br>
+My goal is simple — <b>to make tech feel human.</b>
 </em>
 </p>
 
