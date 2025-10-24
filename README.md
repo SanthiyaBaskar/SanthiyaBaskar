@@ -1,21 +1,23 @@
-<!-- 🌸 Animated Header -->
+<!-- 🌈 Animated Header -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF69B4,100:9370DB&height=180&section=header&text=✨%20Santhiya%20Baskar%20✨&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=40" />
 </p>
 
-<h3 align="center">🌷 Frontend Developer • AI Explorer • Creative Coder 🌷</h3>
+<h3 align="center">Frontend Developer • AI Explorer • Creative Coder</h3>
 
 ---
 
 ## 💖 About Me  
 
-💻 Passionate about building **interactive, meaningful, and aesthetic** web experiences  
-🧠 Exploring the creative worlds of **AI, Python, and Data Visualization**  
-🎨 Merging **logic + emotion** through design-inspired development  
-🚀 Believer in constant growth, imagination, and innovation  
+<p align="center">
+  🌸 Passionate about building <b>interactive, meaningful, and aesthetic</b> web experiences <br>
+  🧠 Exploring the creative worlds of <b>AI, Python, and Data Visualization</b> <br>
+  🎨 Merging <b>logic + emotion</b> through design-inspired development <br>
+  🚀 Believer in constant growth, imagination, and innovation  
+</p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/XbZ9Jsa9kC2Le/giphy.gif" width="250">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWxvMmU4aGtxOWE0cjlvaDJhbmF2Z2l0Ym51bm5vbmR0cndrdXRhciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/C4NdKtRaQE6la/giphy.gif" width="250">
 </p>
 
 ---
@@ -28,9 +30,9 @@
 
 ---
 
-## 🌸 Project Collections  
+## 🚀 Project Collections  
 
-✨ Each project is a reflection of curiosity, creativity, and growth 🌈  
+<p align="center">✨ Each repository represents my journey of creativity and learning 🌈</p>
 
 | Repository | Description |
 |-------------|-------------|
@@ -46,7 +48,7 @@
 
 ---
 
-## 🌈 GitHub Journey  
+## 📊 GitHub Journey  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SanthiyaBaskar&show_icons=true&theme=radical&hide_border=true" width="48%">
@@ -54,32 +56,32 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SanthiyaBaskar&theme=dracula&hide_border=true&bg_color=00000000&radius=10" width="90%">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SanthiyaBaskar&theme=dracula&hide_border=true&radius=10" width="90%">
 </p>
 
 ---
 
 ## 🌟 Highlights  
 
-💫 Designing experiences that merge **creativity, clarity, and code**  
-🎨 Every app tells a story — purposeful, emotional, and user-driven  
-🧠 Focused on **problem-solving, design logic, and functionality**  
-🚀 Turning imagination into digital art that works flawlessly  
+<p align="center">
+  💫 Designing experiences that merge <b>creativity, clarity, and code</b> <br>
+  🎨 Every app tells a story — <b>purposeful, emotional, and user-driven</b> <br>
+  🧠 Focused on <b>problem-solving, design logic, and functionality</b> <br>
+  🚀 Turning imagination into digital art that <b>feels alive</b>  
+</p>
 
 ---
 
 ## ✨ Aesthetic Vibe  
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l0HlOvJ7yaacpuSas/giphy.gif" width="80">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXdybG1ndWg5NHR0NTZzMGRuNHZjZjFhcXh1dzc1aXdtazdnM2Z1ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TDFdUqbrnDwtq/giphy.gif" width="90">
 </p>
 
-🌸 *“Code is my language of creativity.”*  
-💡 *“Every project starts with curiosity and ends with satisfaction.”*  
-🎨 *“Design with emotion, build with purpose, and deliver with love.”*  
-
 <p align="center">
-  <img src="https://media.giphy.com/media/SwoYzI2dsQ3gs/giphy.gif" width="100">
+  🌸 <i>"Code is my language of creativity."</i> <br>
+  💡 <i>"Every project starts with curiosity and ends with satisfaction."</i> <br>
+  🎨 <i>"Design with emotion, build with purpose, and deliver with love."</i>  
 </p>
 
 ---
@@ -93,10 +95,6 @@
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://media.giphy.com/media/d8dHcOmKY4kk0/giphy.gif" width="200">
-</p>
 
 <h3 align="center">✨ Build with love. Code with purpose. Dream without limits. ✨</h3>
 
