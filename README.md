@@ -1,103 +1,83 @@
-<!-- 🌈 Animated Header -->
+<!-- 💫 HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF69B4,100:9370DB&height=180&section=header&text=✨%20Santhiya%20Baskar%20✨&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=40" />
-</p>
-
-<h3 align="center">Frontend Developer • AI Explorer • Creative Coder</h3>
-
----
-
-## 💖 About Me  
-
-<p align="center">
-  🌸 Passionate about building <b>interactive, meaningful, and aesthetic</b> web experiences <br>
-  🧠 Exploring the creative worlds of <b>AI, Python, and Data Visualization</b> <br>
-  🎨 Merging <b>logic + emotion</b> through design-inspired development <br>
-  🚀 Believer in constant growth, imagination, and innovation  
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWxvMmU4aGtxOWE0cjlvaDJhbmF2Z2l0Ym51bm5vbmR0cndrdXRhciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/C4NdKtRaQE6la/giphy.gif" width="250">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFB6C1&height=180&section=header&text=Santhiya%20Baskar&fontSize=40&fontColor=ffffff&fontAlignY=35&desc=Frontend%20Developer%20|%20AI%20Explorer%20|%20Creative%20Coder&descAlignY=55&animation=twinkling" />
 </p>
 
 ---
 
-## 🧠 Tech Stack  
-
+## 💖 About Me
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,mysql,git,github,powerbi,vscode,canva&theme=light" />
+I'm a <b>Frontend Developer</b> and <b>AI Explorer</b> passionate about creating <b>intuitive, modern, and visually expressive</b> web applications.<br>
+I blend <b>design thinking and logical problem-solving</b> to build projects that look good and feel better.<br>
+Always curious, always creating ✨
 </p>
 
 ---
 
-## 🚀 Project Collections  
-
-<p align="center">✨ Each repository represents my journey of creativity and learning 🌈</p>
-
-| Repository | Description |
-|-------------|-------------|
-| [**GUVI Projects**](https://github.com/SanthiyaBaskar/guvi-projects) | AI & Streamlit projects built during GUVI’s AI course |
-| [**Python Coding**](https://github.com/SanthiyaBaskar/python-coding) | CodeKata solutions and problem-solving exercises |
-| [**Power BI Projects**](https://github.com/SanthiyaBaskar/powerbi-projects) | Interactive dashboards and business insights |
-| [**Web Development Projects**](https://github.com/SanthiyaBaskar/web-development-projects) | Responsive web apps from my internship |
-| [**College Projects**](https://github.com/SanthiyaBaskar/college-projects) | ECE-based academic mini and major projects |
-| [**AI Projects**](https://github.com/SanthiyaBaskar/ai-projects) | Creative AI mini-apps built using APIs |
-| [**HTML Projects**](https://github.com/SanthiyaBaskar/html-projects) | Core web projects built using HTML, CSS, JS |
-| [**JavaScript Projects**](https://github.com/SanthiyaBaskar/javascript-projects) | Functional JS apps and browser-based games |
-| [**CSS Projects**](https://github.com/SanthiyaBaskar/css-projects) | Animated designs and unique UI templates |
-
----
-
-## 📊 GitHub Journey  
-
+## 🧠 Tech Stack
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SanthiyaBaskar&show_icons=true&theme=radical&hide_border=true" width="48%">
-  <img src="https://streak-stats.demolab.com?user=SanthiyaBaskar&theme=radical&hide_border=true" width="48%">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SanthiyaBaskar&theme=dracula&hide_border=true&radius=10" width="90%">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,mysql,git,github,powerbi,vscode,canva&perline=6" />
 </p>
 
 ---
 
-## 🌟 Highlights  
+## 🚀 Featured Projects
+<p align="center">Some of my favorite creations — combining creativity, logic, and design 🎨</p>
+
+<table align="center">
+<tr><th>Repository</th><th>Description</th></tr>
+<tr><td><a href="https://github.com/SanthiyaBaskar/guvi-projects">GUVI Projects</a></td><td>AI & Streamlit projects built during GUVI’s AI course</td></tr>
+<tr><td><a href="https://github.com/SanthiyaBaskar/python-coding">Python Coding</a></td><td>CodeKata challenges and Python problem-solving</td></tr>
+<tr><td><a href="https://github.com/SanthiyaBaskar/powerbi-projects">Power BI Projects</a></td><td>Interactive dashboards and data-driven insights</td></tr>
+<tr><td><a href="https://github.com/SanthiyaBaskar/web-development-projects">Web Development</a></td><td>Internship-level responsive and functional web apps</td></tr>
+<tr><td><a href="https://github.com/SanthiyaBaskar/ai-projects">AI Projects</a></td><td>Fun, intelligent apps that use APIs & ML logic</td></tr>
+<tr><td><a href="https://github.com/SanthiyaBaskar/css-projects">CSS Projects</a></td><td>Creative UI effects, transitions, and pure CSS design</td></tr>
+</table>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=SanthiyaBaskar&show_icons=true&theme=rose_pine&hide_border=true" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=SanthiyaBaskar&theme=rose_pine&hide_border=true" />
+</p>
 
 <p align="center">
-  💫 Designing experiences that merge <b>creativity, clarity, and code</b> <br>
-  🎨 Every app tells a story — <b>purposeful, emotional, and user-driven</b> <br>
-  🧠 Focused on <b>problem-solving, design logic, and functionality</b> <br>
-  🚀 Turning imagination into digital art that <b>feels alive</b>  
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=SanthiyaBaskar&theme=tokyo-night&hide_border=true&radius=10" />
 </p>
 
 ---
 
-## ✨ Aesthetic Vibe  
-
+## ✨ My Philosophy
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXdybG1ndWg5NHR0NTZzMGRuNHZjZjFhcXh1dzc1aXdtazdnM2Z1ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TDFdUqbrnDwtq/giphy.gif" width="90">
-</p>
-
-<p align="center">
-  🌸 <i>"Code is my language of creativity."</i> <br>
-  💡 <i>"Every project starts with curiosity and ends with satisfaction."</i> <br>
-  🎨 <i>"Design with emotion, build with purpose, and deliver with love."</i>  
+<em>
+I build not just with logic, but with intention.<br>
+Code should be simple, expressive, and human-centered.<br>
+Design isn’t decoration — it’s communication.
+</em>
 </p>
 
 ---
 
-## 🌐 Connect With Me  
-
+## 🌐 Let’s Connect
 <p align="center">
-  <a href="https://www.linkedin.com/in/santhiya-baskar-675a85258"><img src="https://img.shields.io/badge/LinkedIn-9370DB?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:ssandhiya252@gmail.com"><img src="https://img.shields.io/badge/Gmail-FF69B4?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://github.com/SanthiyaBaskar"><img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/santhiya-baskar-675a85258">
+    <img src="https://img.shields.io/badge/LinkedIn-FFB6C1?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:ssandhiya252@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-9370DB?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/SanthiyaBaskar">
+    <img src="https://img.shields.io/badge/GitHub-191919?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-<h3 align="center">✨ Build with love. Code with purpose. Dream without limits. ✨</h3>
+<p align="center">
+  <b>✨ Build with love. Code with purpose. Dream without limits. ✨</b>
+</p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9370DB,100:FF69B4&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=9370DB&height=120&section=footer" />
 </p>
