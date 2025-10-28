@@ -1,6 +1,6 @@
 <!-- 🌈 HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF69B4,100:9370DB&height=160&section=header&text=✨%20Hey%20Everyone,%20Welcome!%20✨&fontSize=26&fontColor=ffffff&fontAlignY=35&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF69B4,100:9370DB&height=130&section=header&text=✨%20Hey%20Everyone,%20Welcome!%20✨&fontSize=24&fontColor=ffffff&fontAlignY=35&animation=twinkling" />
 </p>
 
 <h3 align="center">I'm <b>Santhiya Baskar</b> 💖 | Frontend Developer & AI Explorer</h3>
@@ -46,7 +46,8 @@ Explore my main repositories — each one represents a creative milestone 🌸
 <h2 align="center">📊 GitHub Insights</h2>
 
 <p align="center">
-  <img width="90%" src="https://github-readme-stats.vercel.app/api?username=SanthiyaBaskar&show_icons=true&theme=radical&hide_border=true" alt="Santhiya's GitHub Stats"/>
+  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=SanthiyaBaskar&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Santhiya's GitHub Stats"/>
+  <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanthiyaBaskar&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
 </p>
 
 <p align="center">
@@ -73,11 +74,18 @@ I mix <b>creativity</b> and <b>clarity</b> to build something meaningful.<br>
   <a href="https://www.linkedin.com/in/santhiya-baskar-675a85258">
     <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-9370DB?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+  <a href="mailto:ssandhiya252@gmail.com">
+    <img src="https://img.shields.io/badge/Email%20Me-FF69B4?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SanthiyaBaskar&label=Profile+Views&color=9370DB&style=flat-square" alt="Profile views"/>
 </p>
 
 ---
 
 <!-- 🌈 FOOTER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9370DB,100:FF69B4&height=160&section=footer&text=✨%20Build%20with%20love.%20Code%20with%20purpose.%20Dream%20without%20limits.%20✨&fontSize=18&fontColor=ffffff&fontAlignY=75&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9370DB,100:FF69B4&height=130&section=footer&text=✨%20Build%20with%20love.%20Code%20with%20purpose.%20Dream%20without%20limits.%20✨&fontSize=16&fontColor=ffffff&fontAlignY=75&animation=twinkling" />
 </p>
