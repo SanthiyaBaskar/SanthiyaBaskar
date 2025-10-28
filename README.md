@@ -48,12 +48,12 @@ Explore my key project repositories — every one tells a story of growth and cr
 <h2 align="center">📊 GitHub Insights</h2>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=SanthiyaBaskar&show_icons=true&theme=rose_pine&hide_border=true" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=SanthiyaBaskar&theme=rose_pine&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=SanthiyaBaskar&show_icons=true&theme=rose_pine&hide_border=true&border_radius=12&rank_icon=github" alt="Santhiya's GitHub Stats"/>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=SanthiyaBaskar&theme=rose_pine&hide_border=true&border_radius=12" alt="GitHub Streak Stats"/>
 </p>
 
 <p align="center">
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=SanthiyaBaskar&theme=tokyo-night&hide_border=true&radius=10" />
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=SanthiyaBaskar&bg_color=1a1b27&color=c792ea&line=ff79c6&point=bd93f9&area=true&hide_border=true" alt="GitHub Activity Graph"/>
 </p>
 
 ---
