@@ -50,8 +50,16 @@ Explore my main repositories — each one represents a creative milestone 🌸
   <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanthiyaBaskar&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
 </p>
 
+---
+
+<h2 align="center">💓 Code Pulse</h2>
+
 <p align="center">
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=SanthiyaBaskar&bg_color=0D1117&color=FF69B4&line=9370DB&point=FFC0CB&area=true&hide_border=true" alt="GitHub Activity Graph"/>
+  <img src="https://raw.githubusercontent.com/DenverCoder1/github-readme-streak-stats/master/src/images/heartbeat.gif" width="400" alt="Code Heartbeat Animation">
+</p>
+
+<p align="center">
+<em>"Every heartbeat counts — every line of code carries emotion, logic, and a spark of art."</em>
 </p>
 
 ---
@@ -74,13 +82,6 @@ I mix <b>creativity</b> and <b>clarity</b> to build something meaningful.<br>
   <a href="https://www.linkedin.com/in/santhiya-baskar-675a85258">
     <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-9370DB?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:ssandhiya252@gmail.com">
-    <img src="https://img.shields.io/badge/Email%20Me-FF69B4?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SanthiyaBaskar&label=Profile+Views&color=9370DB&style=flat-square" alt="Profile views"/>
 </p>
 
 ---
@@ -89,3 +90,4 @@ I mix <b>creativity</b> and <b>clarity</b> to build something meaningful.<br>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9370DB,100:FF69B4&height=130&section=footer&text=✨%20Build%20with%20love.%20Code%20with%20purpose.%20Dream%20without%20limits.%20✨&fontSize=16&fontColor=ffffff&fontAlignY=75&animation=twinkling" />
 </p>
+
