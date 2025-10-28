@@ -20,9 +20,7 @@ Every project I build reflects <b>curiosity, creativity, and clarity</b> ✨
 <h2 align="center">🧠 Tech Stack</h2>
 
 <p align="center">
-  <!-- Row 1 -->
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs&theme=light" /><br><br>
-  <!-- Row 2 -->
   <img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode&theme=light" />
 </p>
 
@@ -49,7 +47,7 @@ Explore my major repositories — each one represents a creative milestone 🌸
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=SanthiyaBaskar&show_icons=true&theme=rose_pine&hide_border=true&border_radius=12&rank_icon=github" alt="Santhiya's GitHub Stats"/>
-  <img width="49%" src="https://streak-stats.demolab.com?user=SanthiyaBaskar&theme=rose_pine&hide_border=true&border_radius=12" alt="Santhiya's GitHub Streak"/>
+  <img width="49%" src="https://github-readme-streak-stats.vercel.app?user=SanthiyaBaskar&theme=rose_pine&hide_border=true&border_radius=12" alt="GitHub Streak Stats"/>
 </p>
 
 <p align="center">
