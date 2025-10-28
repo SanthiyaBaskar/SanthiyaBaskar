@@ -46,8 +46,12 @@ Explore my main repositories — each one represents a creative milestone 🌸
 <h2 align="center">📊 GitHub Insights</h2>
 
 <p align="center">
-  <img width="49%" src="https://raw.githubusercontent.com/SanthiyaBaskar/github-stats/master/generated/overview.svg" alt="Santhiya's GitHub Stats"/>
-  <img width="49%" src="https://raw.githubusercontent.com/SanthiyaBaskar/github-stats/master/generated/languages.svg" alt="Top Languages"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=SanthiyaBaskar&show_icons=true&theme=radical&hide_border=true" alt="Santhiya's GitHub Stats"/>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=SanthiyaBaskar&theme=radical&hide_border=true" alt="GitHub Streak Stats"/>
+</p>
+
+<p align="center">
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=SanthiyaBaskar&bg_color=0D1117&color=FF69B4&line=9370DB&point=FFC0CB&area=true&hide_border=true" alt="GitHub Activity Graph"/>
 </p>
 
 ---
