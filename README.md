@@ -10,9 +10,9 @@
 <h2 align="center">💻 About Me</h2>
 
 <p align="center">
-I’m a <b>Frontend Developer</b> and <b>AI Explorer</b> passionate about crafting <b>clean, modern, and user-focused</b> web experiences.<br>
-I bring together <b>design thinking</b> and <b>logical problem-solving</b> to make ideas come alive.<br>
-Every project I build reflects <b>curiosity, creativity, and clarity</b> ✨
+I’m a <b>Frontend Developer</b> and <b>AI Explorer</b> passionate about crafting <b>clean, modern, and user-centered</b> digital experiences.<br>
+I blend <b>design thinking</b> and <b>logical structure</b> to make ideas come alive.<br>
+Every project I build reflects <b>clarity, curiosity, and creativity</b> ✨
 </p>
 
 ---
@@ -20,9 +20,7 @@ Every project I build reflects <b>curiosity, creativity, and clarity</b> ✨
 <h2 align="center">🧠 Tech Stack</h2>
 
 <p align="center">
-  <!-- Row 1 -->
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs&theme=light" /><br><br>
-  <!-- Row 2 -->
   <img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode&theme=light" />
 </p>
 
@@ -31,16 +29,16 @@ Every project I build reflects <b>curiosity, creativity, and clarity</b> ✨
 <h2 align="center">🚀 Project Collections</h2>
 
 <p align="center">
-Explore my major repositories — each one represents a creative milestone 🌸
+Explore my main repositories — each one represents a creative milestone 🌸
 </p>
 
 <table align="center">
 <tr><th>Repository</th><th>Description</th></tr>
-<tr><td><a href="https://github.com/SanthiyaBaskar/guvi-projects">GUVI Projects</a></td><td>AI & Streamlit projects built during GUVI’s AI course</td></tr>
-<tr><td><a href="https://github.com/SanthiyaBaskar/python-coding">Python Coding</a></td><td>CodeKata challenges and mini Python projects</td></tr>
-<tr><td><a href="https://github.com/SanthiyaBaskar/powerbi-projects">Power BI Projects</a></td><td>Interactive dashboards and business analytics</td></tr>
-<tr><td><a href="https://github.com/SanthiyaBaskar/web-development-projects">Web Development</a></td><td>Internship-level responsive web applications</td></tr>
-<tr><td><a href="https://github.com/SanthiyaBaskar/css-projects">CSS Projects</a></td><td>Creative UI designs and animation-based effects</td></tr>
+<tr><td><a href="https://github.com/SanthiyaBaskar/guvi-projects">GUVI Projects</a></td><td>AI & Streamlit apps built during GUVI’s AI program</td></tr>
+<tr><td><a href="https://github.com/SanthiyaBaskar/python-coding">Python Coding</a></td><td>CodeKata logic problems and Python mini-projects</td></tr>
+<tr><td><a href="https://github.com/SanthiyaBaskar/powerbi-projects">Power BI Projects</a></td><td>Interactive dashboards and analytics visualizations</td></tr>
+<tr><td><a href="https://github.com/SanthiyaBaskar/web-development-projects">Web Development</a></td><td>Frontend & full-stack responsive web applications</td></tr>
+<tr><td><a href="https://github.com/SanthiyaBaskar/css-projects">CSS Projects</a></td><td>Creative UI components and modern design effects</td></tr>
 </table>
 
 ---
@@ -49,7 +47,7 @@ Explore my major repositories — each one represents a creative milestone 🌸
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=SanthiyaBaskar&show_icons=true&theme=rose_pine&hide_border=true&border_radius=12&rank_icon=github" alt="Santhiya's GitHub Stats"/>
-  <img width="49%" src="https://streak-stats.npkn.net/?user=SanthiyaBaskar&theme=rose_pine&hide_border=true&border_radius=12" alt="Santhiya's GitHub Streak Stats"/>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=SanthiyaBaskar&theme=rose_pine&hide_border=true&border_radius=12" alt="GitHub Streak Stats"/>
 </p>
 
 <p align="center">
@@ -62,9 +60,9 @@ Explore my major repositories — each one represents a creative milestone 🌸
 
 <p align="center">
 <em>
-"Code should feel like art — expressive, clean, and full of intent."<br>
-I blend creativity and logic to build things that <b>work beautifully</b>.<br>
-My goal is simple — <b>to make tech feel human.</b>
+“Code isn’t just logic — it’s how I paint ideas into life.”<br>
+I mix <b>creativity</b> and <b>clarity</b> to build something meaningful.<br>
+<b>Build beautifully. Code thoughtfully. Dream endlessly.</b>
 </em>
 </p>
 
