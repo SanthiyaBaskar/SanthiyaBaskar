@@ -10,8 +10,9 @@
 <h2 align="center">💻 About Me</h2>
 
 <p align="center">
-I’m a <b>Frontend Developer</b> and <b>AI Explorer</b> passionate about crafting <b>clean, modern, and user-centered</b> digital experiences.<br>
-I love blending <b>logic</b> with <b>creativity</b> to turn ideas into reality and design meaningful web experiences.
+I’m a <b>Frontend Developer</b> and <b>AI Explorer</b> passionate about building <b>interactive, modern, and human-centered</b> digital experiences.<br>
+My work blends <b>logic</b> and <b>creativity</b> to make ideas come alive — with a focus on <b>clean design, smooth interactivity,</b> and <b>innovation</b>.<br>
+I believe every line of code is an expression of <b>clarity, curiosity, and creativity.</b> ✨
 </p>
 
 ---
@@ -21,6 +22,26 @@ I love blending <b>logic</b> with <b>creativity</b> to turn ideas into reality a
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs" /><br><br>
   <img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode" />
+</p>
+
+---
+
+<h2 align="center">🌸 Highlights</h2>
+
+<p align="center">
+🎨 50+ projects crafted across Web, AI, and Data Visualization <br>
+💻 Skilled in <b>Frontend, Python, and Power BI</b> <br>
+🚀 Passionate about <b>UI design, performance, and interactivity</b> <br>
+🌈 Always learning, evolving, and creating with purpose
+</p>
+
+---
+
+<h2 align="center">📊 GitHub Insights</h2>
+
+<p align="center">
+  <img width="47%" height="180px" src="https://github-readme-stats.vercel.app/api?username=SanthiyaBaskar&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Santhiya's GitHub Stats"/>
+  <img width="47%" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanthiyaBaskar&layout=compact&theme=radical&hide_border=true&langs_count=4" alt="Top Languages"/>
 </p>
 
 ---
@@ -39,25 +60,6 @@ Explore my main repositories — each one represents a creative milestone 🌸
 <tr><td><a href="https://github.com/SanthiyaBaskar/web-development-projects">Web Development</a></td><td>Frontend & full-stack responsive web applications</td></tr>
 <tr><td><a href="https://github.com/SanthiyaBaskar/css-projects">CSS Projects</a></td><td>Creative UI components and modern design effects</td></tr>
 </table>
-
----
-
-<h2 align="center">📊 GitHub Insights</h2>
-
-<p align="center">
-  <img width="46%" src="https://github-readme-stats.vercel.app/api?username=SanthiyaBaskar&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Santhiya's GitHub Stats"/>
-  <img width="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanthiyaBaskar&layout=compact&theme=radical&hide_border=true&langs_count=4" alt="Top Languages"/>
-</p>
-
----
-
-<h2 align="center">🌈 Highlights</h2>
-
-<p align="center">
-✨ Built 50+ creative projects across Frontend, AI & Data Visualization <br>
-🎯 Passionate about clean UI, interactivity, and real-world problem solving <br>
-🌸 Balancing code, design, and innovation with purpose
-</p>
 
 ---
 
