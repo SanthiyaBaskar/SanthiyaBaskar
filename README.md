@@ -1,6 +1,6 @@
 <!-- 🌈 HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF69B4,100:9370DB&height=160&section=header&text=✨%20Hey%20Everyone,%20Welcome!%20✨&fontSize=25&fontColor=ffffff&fontAlignY=35&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF69B4,100:9370DB&height=160&section=header&text=✨%20Hey%20Everyone,%20Welcome!%20✨&fontSize=26&fontColor=ffffff&fontAlignY=35&animation=twinkling" />
 </p>
 
 <h3 align="center">I'm <b>Santhiya Baskar</b> 💖 | Frontend Developer & AI Explorer</h3>
@@ -10,9 +10,9 @@
 <h2 align="center">💻 About Me</h2>
 
 <p align="center">
-I’m a <b>Frontend Developer</b> and <b>AI Explorer</b> who loves building <b>clean, modern, and meaningful</b> web experiences.<br>
-I focus on <b>clarity, usability, and creative logic</b> to turn ideas into reality.<br>
-Every project I build reflects curiosity, learning, and design-inspired thinking ✨
+I’m a <b>Frontend Developer</b> and <b>AI Explorer</b> passionate about crafting <b>clean, modern, and user-focused</b> web experiences.<br>
+I bring together <b>design thinking</b> and <b>logical problem-solving</b> to make ideas come alive.<br>
+Every project I build reflects <b>curiosity, creativity, and clarity</b> ✨
 </p>
 
 ---
@@ -31,16 +31,16 @@ Every project I build reflects curiosity, learning, and design-inspired thinking
 <h2 align="center">🚀 Project Collections</h2>
 
 <p align="center">
-Explore my key project repositories — every one tells a story of growth and creativity 🌸
+Explore my major repositories — each one represents a creative milestone 🌸
 </p>
 
 <table align="center">
 <tr><th>Repository</th><th>Description</th></tr>
 <tr><td><a href="https://github.com/SanthiyaBaskar/guvi-projects">GUVI Projects</a></td><td>AI & Streamlit projects built during GUVI’s AI course</td></tr>
-<tr><td><a href="https://github.com/SanthiyaBaskar/python-coding">Python Coding</a></td><td>CodeKata challenges and Python problem-solving</td></tr>
-<tr><td><a href="https://github.com/SanthiyaBaskar/powerbi-projects">Power BI Projects</a></td><td>Data dashboards and analytics built using Power BI</td></tr>
+<tr><td><a href="https://github.com/SanthiyaBaskar/python-coding">Python Coding</a></td><td>CodeKata challenges and mini Python projects</td></tr>
+<tr><td><a href="https://github.com/SanthiyaBaskar/powerbi-projects">Power BI Projects</a></td><td>Interactive dashboards and business analytics</td></tr>
 <tr><td><a href="https://github.com/SanthiyaBaskar/web-development-projects">Web Development</a></td><td>Internship-level responsive web applications</td></tr>
-<tr><td><a href="https://github.com/SanthiyaBaskar/css-projects">CSS Projects</a></td><td>Creative UI effects and animation-based projects</td></tr>
+<tr><td><a href="https://github.com/SanthiyaBaskar/css-projects">CSS Projects</a></td><td>Creative UI designs and animation-based effects</td></tr>
 </table>
 
 ---
