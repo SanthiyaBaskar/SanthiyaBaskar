@@ -11,8 +11,7 @@
 
 <p align="center">
 I’m a <b>Frontend Developer</b> and <b>AI Explorer</b> passionate about crafting <b>clean, modern, and user-centered</b> digital experiences.<br>
-I blend <b>design thinking</b> and <b>logical structure</b> to make ideas come alive.<br>
-Every project I build reflects <b>clarity, curiosity, and creativity</b> ✨
+I love blending <b>logic</b> with <b>creativity</b> to turn ideas into reality and design meaningful web experiences.
 </p>
 
 ---
@@ -46,32 +45,18 @@ Explore my main repositories — each one represents a creative milestone 🌸
 <h2 align="center">📊 GitHub Insights</h2>
 
 <p align="center">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=SanthiyaBaskar&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Santhiya's GitHub Stats"/>
-  <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanthiyaBaskar&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
+  <img width="46%" src="https://github-readme-stats.vercel.app/api?username=SanthiyaBaskar&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Santhiya's GitHub Stats"/>
+  <img width="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanthiyaBaskar&layout=compact&theme=radical&hide_border=true&langs_count=4" alt="Top Languages"/>
 </p>
 
 ---
 
-<h2 align="center">💓 Code Pulse</h2>
+<h2 align="center">🌈 Highlights</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DenverCoder1/github-readme-streak-stats/master/src/images/heartbeat.gif" width="400" alt="Code Heartbeat Animation">
-</p>
-
-<p align="center">
-<em>"Every heartbeat counts — every line of code carries emotion, logic, and a spark of art."</em>
-</p>
-
----
-
-<h2 align="center">🌸 My Philosophy</h2>
-
-<p align="center">
-<em>
-“Code isn’t just logic — it’s how I paint ideas into life.”<br>
-I mix <b>creativity</b> and <b>clarity</b> to build something meaningful.<br>
-<b>Build beautifully. Code thoughtfully. Dream endlessly.</b>
-</em>
+✨ Built 50+ creative projects across Frontend, AI & Data Visualization <br>
+🎯 Passionate about clean UI, interactivity, and real-world problem solving <br>
+🌸 Balancing code, design, and innovation with purpose
 </p>
 
 ---
@@ -88,6 +73,5 @@ I mix <b>creativity</b> and <b>clarity</b> to build something meaningful.<br>
 
 <!-- 🌈 FOOTER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9370DB,100:FF69B4&height=130&section=footer&text=✨%20Build%20with%20love.%20Code%20with%20purpose.%20Dream%20without%20limits.%20✨&fontSize=16&fontColor=ffffff&fontAlignY=75&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9370DB,100:FF69B4&height=120&section=footer&text=✨%20Build%20with%20love.%20Code%20with%20purpose.%20Dream%20without%20limits.%20✨&fontSize=15&fontColor=ffffff&fontAlignY=75&animation=twinkling" />
 </p>
-
