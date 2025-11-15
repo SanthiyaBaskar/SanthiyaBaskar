@@ -43,14 +43,16 @@ I believe every line of code is an expression of <b>clarity, curiosity, and crea
 <tr>
 <td align="center">
 
+<!-- Fixed GitHub Stats (mirror server) -->
 <img 
-  src="https://github-readme-stats.vercel.app/api?username=SanthiyaBaskar&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true"
+  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SanthiyaBaskar&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true"
   width="420"
 />
 
 </td>
 <td align="center">
 
+<!-- Languages -->
 <img 
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanthiyaBaskar&layout=compact&theme=radical&hide_border=true&langs_count=6"
   width="420"
@@ -59,6 +61,7 @@ I believe every line of code is an expression of <b>clarity, curiosity, and crea
 </td>
 </tr>
 </table>
+
 
 ---
 
