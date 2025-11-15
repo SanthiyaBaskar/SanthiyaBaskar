@@ -41,13 +41,13 @@ I believe every line of code is an expression of <b>clarity, curiosity, and crea
 
 <p align="center">
 
-  <!-- GitHub Stats (ALWAYS WORKS) -->
+  <!-- ✔ GitHub Stats (WORKING, NO ERRORS) -->
   <img 
     src="https://github-readme-stats.vercel.app/api?username=SanthiyaBaskar&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true"
     height="180px"
   />
 
-  <!-- Most Used Languages (ALWAYS WORKS) -->
+  <!-- ✔ Most Used Languages (WORKING, NO ERRORS) -->
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanthiyaBaskar&layout=compact&theme=radical&hide_border=true&langs_count=6"
     height="180px"
