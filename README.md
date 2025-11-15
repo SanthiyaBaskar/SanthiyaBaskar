@@ -37,6 +37,15 @@ I believe every line of code is an expression of <b>clarity, curiosity, and crea
 
 ---
 
+<h2 align="center">📊 GitHub Insight</h2>
+
+<p align="center">
+  <!-- ONLY Commit Counter (Always Works) -->
+  <img src="https://img.shields.io/github/commit-activity/y/SanthiyaBaskar/SanthiyaBaskar?color=ff69b4&label=Total%20Commits%20This%20Year&style=for-the-badge" />
+</p>
+
+---
+
 <h2 align="center">🚀 Project Collections</h2>
 
 <p align="center">
