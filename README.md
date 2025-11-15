@@ -39,16 +39,23 @@ I believe every line of code is an expression of <b>clarity, curiosity, and crea
 
 <h2 align="center">📊 GitHub Insights</h2>
 
-<!-- ⭐ STABLE, ERROR-FREE MIRROR LINKS BELOW ⭐ -->
-
 <p align="center">
-  <img width="47%" height="180px" 
-       src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SanthiyaBaskar&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" 
-       alt="Santhiya's GitHub Stats"/>
 
-  <img width="47%" height="180px" 
-       src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SanthiyaBaskar&layout=compact&theme=radical&hide_border=true&langs_count=4" 
-       alt="Top Languages"/>
+  <!-- Profile Views (Always Works) -->
+  <img src="https://komarev.com/ghpvc/?username=SanthiyaBaskar&style=for-the-badge&color=ff69b4" />
+
+  <br><br>
+
+  <!-- GitHub Stats (Stable Mirror – Never Breaks) -->
+  <img width="47%" height="180px"
+       src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SanthiyaBaskar&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true"
+       alt="Santhiya's GitHub Stats" />
+
+  <!-- Top Languages (Stable Mirror – Never Breaks) -->
+  <img width="47%" height="180px"
+       src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SanthiyaBaskar&layout=compact&theme=radical&hide_border=true&langs_count=4"
+       alt="Top Languages" />
+
 </p>
 
 ---
@@ -61,11 +68,32 @@ Explore my main repositories — each one represents a creative milestone 🌸
 
 <table align="center">
 <tr><th>Repository</th><th>Description</th></tr>
-<tr><td><a href="https://github.com/SanthiyaBaskar/guvi-projects">GUVI Projects</a></td><td>AI & Streamlit apps built during GUVI’s AI program</td></tr>
-<tr><td><a href="https://github.com/SanthiyaBaskar/python-coding">Python Coding</a></td><td>CodeKata logic problems and Python mini-projects</td></tr>
-<tr><td><a href="https://github.com/SanthiyaBaskar/powerbi-projects">Power BI Projects</a></td><td>Interactive dashboards and analytics visualizations</td></tr>
-<tr><td><a href="https://github.com/SanthiyaBaskar/web-development-projects">Web Development</a></td><td>Frontend & full-stack responsive web applications</td></tr>
-<tr><td><a href="https://github.com/SanthiyaBaskar/css-projects">CSS Projects</a></td><td>Creative UI components and modern design effects</td></tr>
+
+<tr>
+  <td><a href="https://github.com/SanthiyaBaskar/guvi-projects">GUVI Projects</a></td>
+  <td>AI & Streamlit apps built during GUVI’s AI program</td>
+</tr>
+
+<tr>
+  <td><a href="https://github.com/SanthiyaBaskar/python-coding">Python Coding</a></td>
+  <td>CodeKata logic problems and Python mini-projects</td>
+</tr>
+
+<tr>
+  <td><a href="https://github.com/SanthiyaBaskar/powerbi-projects">Power BI Projects</a></td>
+  <td>Interactive dashboards and analytics visualizations</td>
+</tr>
+
+<tr>
+  <td><a href="https://github.com/SanthiyaBaskar/web-development-projects">Web Development</a></td>
+  <td>Frontend & full-stack responsive web applications</td>
+</tr>
+
+<tr>
+  <td><a href="https://github.com/SanthiyaBaskar/css-projects">CSS Projects</a></td>
+  <td>Creative UI components and modern design effects</td>
+</tr>
+
 </table>
 
 ---
