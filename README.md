@@ -38,29 +38,17 @@ I believe every line of code is an expression of <b>clarity, curiosity, and crea
 ---
 <h2 align="center">📊 GitHub Insights</h2>
 
-<table align="center">
-<tr>
-<td align="center">
-
-<!-- GitHub Stats (100% working mirror) -->
-<img 
-  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SanthiyaBaskar&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true"
-  width="420"
-/>
-
-</td>
-<td align="center">
-
-<!-- Most Used Languages -->
-<img 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanthiyaBaskar&layout=compact&theme=radical&hide_border=true&langs_count=6"
-  width="420"
-/>
-
-</td>
-</tr>
-</table>
-
+<p align="center">
+  <img 
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SanthiyaBaskar&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true"
+    width="49%"
+  />
+  
+  <img 
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SanthiyaBaskar&layout=compact&theme=radical&hide_border=true&langs_count=6"
+    width="49%"
+  />
+</p>
 
 
 ---
