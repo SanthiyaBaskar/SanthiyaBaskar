@@ -44,7 +44,7 @@ I believe every line of code is an expression of <b>clarity, curiosity, and crea
 <img src="https://img.shields.io/badge/Total_Commits-600+-ff69b4?style=for-the-badge&logo=git&logoColor=white" />
 
 <!-- ✔ Repo Stats -->
-<img src="https://img.shields.io/badge/Public_Repos-60+-9370DB?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Public_Repos-100+-9370DB?style=for-the-badge&logo=github&logoColor=white" />
 
 <!-- ✔ Languages -->
 <img src="https://img.shields.io/badge/Top_Langs-HTML_|_CSS_|_JS_|_Python-ffb6c1?style=for-the-badge" />
