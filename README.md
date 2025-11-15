@@ -37,29 +37,6 @@ I believe every line of code is an expression of <b>clarity, curiosity, and crea
 
 ---
 
-<h2 align="center">📊 GitHub Insights</h2>
-
-<p align="center">
-
-  <!-- Profile Views (Always Works) -->
-  <img src="https://komarev.com/ghpvc/?username=SanthiyaBaskar&style=for-the-badge&color=ff69b4" />
-
-  <br><br>
-
-  <!-- GitHub Stats (Stable Mirror – Never Breaks) -->
-  <img width="47%" height="180px"
-       src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SanthiyaBaskar&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true"
-       alt="Santhiya's GitHub Stats" />
-
-  <!-- Top Languages (Stable Mirror – Never Breaks) -->
-  <img width="47%" height="180px"
-       src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SanthiyaBaskar&layout=compact&theme=radical&hide_border=true&langs_count=4"
-       alt="Top Languages" />
-
-</p>
-
----
-
 <h2 align="center">🚀 Project Collections</h2>
 
 <p align="center">
