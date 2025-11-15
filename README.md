@@ -38,17 +38,18 @@ I believe every line of code is an expression of <b>clarity, curiosity, and crea
 ---
 <h2 align="center">📊 GitHub Insights</h2>
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SanthiyaBaskar&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true"
-    width="49%"
-  />
-  
-  <img 
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SanthiyaBaskar&layout=compact&theme=radical&hide_border=true&langs_count=6"
-    width="49%"
-  />
-</p>
+<div align="center">
+
+<!--  ✔ Total Commits  -->
+<img src="https://img.shields.io/badge/Total_Commits-600+-ff69b4?style=for-the-badge&logo=git&logoColor=white" />
+
+<!-- ✔ Repo Stats -->
+<img src="https://img.shields.io/badge/Public_Repos-60+-9370DB?style=for-the-badge&logo=github&logoColor=white" />
+
+<!-- ✔ Languages -->
+<img src="https://img.shields.io/badge/Top_Langs-HTML_|_CSS_|_JS_|_Python-ffb6c1?style=for-the-badge" />
+
+</div>
 
 
 ---
